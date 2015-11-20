@@ -1,0 +1,15 @@
+node_modules
+dist
+.tmp
+bower_components
+*.sass
+*.css.map
+*.DS_Store
+.bowerrc
+.gitattributes
+.yo-rc.json
+Gruntfile.js
+.idea
+.editorconfig
+
+
